@@ -1,0 +1,8 @@
+#Codigos para Git
+
+#git init: Crea un repositorio limpio o reinicia un existente.
+#git add: Para enviar archivos a staging
+#git commit: Para enviar el archivo de staging a repositorio local (Siempre comentarlo con -m "comentario")
+#git status: Para chequear los archivo que estan en staging
+#git log: Muestra historia de todos los commit que se han realizado.
+    
