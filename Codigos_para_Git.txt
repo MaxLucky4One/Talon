@@ -5,4 +5,8 @@
 #git commit: Para enviar el archivo de staging a repositorio local (Siempre comentarlo con -m "comentario")
 #git status: Para chequear los archivo que estan en staging
 #git log: Muestra historia de todos los commit que se han realizado.
-    
+#git clone url: Para traer un copia del master al repositorio local 
+#git push: Para enviar todo lo que tengo en repositorio a el remoto
+#git fetch: Para traer una copia del repositorio remoto 
+#git merge: Para funcionar la version actual con la descargada
+#git pull: Para copiar el directorio
