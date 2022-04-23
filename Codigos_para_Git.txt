@@ -10,3 +10,10 @@
 #git fetch: Para traer una copia del repositorio remoto 
 #git merge: Para funcionar la version actual con la descargada
 #git pull: Para copiar el directorio
+-_- Estándo ahora en merlyn_rama
+aprendí acerca de los comandos branch y checkout
+#git branch (nombre_de_rama) se utiliza para crear una rama apartir
+del ultimo commit.
+#git checkout (nombre_de_rama), se utiliza para saltar a la rama donde se quiere ir.
+$$git commit -am "comentario", para hacer un add commit juntos. 
+pero para utilizarlo debe ser un archivo anteriormente añadido (Git add)
